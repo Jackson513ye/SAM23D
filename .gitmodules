@@ -1,9 +1,12 @@
 [submodule "LM2PCG"]
 	path = LM2PCG
 	url = https://github.com/Jackson513ye/LM2PCG.git
+	branch = viewer-hongyu
 [submodule "SAM23D"]
 	path = SAM23D
 	url = https://github.com/Jackson513ye/SAM23D
+	branch = viewer-hongyu
 [submodule "GUI_SpatialLLM"]
 	path = GUI_SpatialLLM
 	url = https://github.com/Jackson513ye/GUI_SpatialLLM
+	branch = viewer-hongyu
